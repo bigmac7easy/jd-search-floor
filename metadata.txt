@@ -1,0 +1,8 @@
+[general]
+name=JD Search Floor
+description=층별 공간정보 조회
+version=0.1
+qgisMinimumVersion=3.44
+author=Jason Jung
+email=jdha@lx.or.kr
+about=FLR_NO 속성을 활용한 층별 레이어 조회 플러그인

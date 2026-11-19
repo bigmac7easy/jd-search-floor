@@ -1,0 +1,8 @@
+실행방법
+.\run_qgis_venv.bat test.py
+
+
+
+├── metadata.txt       # 플러그인 등록정보 , Java의 pom.xml
+├── __init__.py        # 플러그인 진입점
+└── main.py            # 기능 구현
